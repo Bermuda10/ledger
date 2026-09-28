@@ -1,0 +1,30 @@
+{
+  "test": false,
+  "repository": "bermuda10/ledger",
+  "licence": "CC BY 4.0",
+  "convergence_rule": null,
+  "last_reading": null,
+  "entries": [
+    {
+      "number": 1,
+      "slug": "genesis",
+      "type": "genesis",
+      "organisation": null,
+      "signer": "Hannes Heyns",
+      "built_from": null,
+      "revision_of": null,
+      "published_at": "2026-09-28",
+      "status": "published",
+      "signable": false,
+      "co_signs": 0,
+      "changes": null,
+      "path": "entries/001-genesis.json"
+    }
+  ],
+  "readings": [],
+  "brake": [],
+  "settings": [
+    "settings/2026-09-28.json"
+  ],
+  "not_admitted": "not-admitted.json"
+}
